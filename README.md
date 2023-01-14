@@ -16,7 +16,7 @@
 
 [Alfred Workflows](https://drive.proton.me/urls/F3N3MYCZHR#fcJghlzjEbYm):
 -----------------
-- Download the Workflows Above, redeploy according to the file path.
+- Download the Workflows Above (password required), redeploy according to the file path.
 - Need more Workflows? Seek them here: [Packal - Alfred](https://www.packal.org/)
 
 **Chrome Extensions:**
