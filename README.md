@@ -1,14 +1,14 @@
 **Installation & Setup:**
 -------------------------------
 [OhMyZ.sh](https://ohmyz.sh/#install)
+Theme = https://github.com/romkatv/powerlevel10k
+Plugins = https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 
 [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)
 
 [Amphetamine Enhancer](https://github.com/x74353/Amphetamine-Enhancer)
 
 [Toothpicks](https://apps.apple.com/us/app/toothpicks/id998361254?mt=12)
-
-[PopClip Extensions](https://pilotmoon.com/popclip/extensions/)
 
 [Homebrew](https://brew.sh/)
 
@@ -33,8 +33,7 @@
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related)       
 [tlda](https://chrome.google.com/webstore/detail/tlda/ogefhmcfhgggggefddkaemfifdcljbml/related)     
 [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe/related)     
-[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd/related)    
 [YouTube Playback Speed Control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)  
 [YouTube - SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)   
 
-**Setup:** [BrewUp](https://github.com/fire1ce/BrewUp)
+**Setup:** [BrewUp](https://github.com/lyr1cx/BrewUp/) for updates.
