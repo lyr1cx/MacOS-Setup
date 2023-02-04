@@ -38,8 +38,6 @@ cask "notion"
 cask "foldingtext"
 mas "Xcode", id: 497799835
 mas "Amphetamine", id: 937984704
-mas "PopClip", id: 445189367
-brew "archey"
 brew "bdw-gc"
 brew "brotli"
 brew "c-ares"
