@@ -1,8 +1,10 @@
 **Installation & Setup:**
 -------------------------------
 [OhMyZ.sh](https://ohmyz.sh/#install)
-Theme = https://github.com/romkatv/powerlevel10k
-Plugins = https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+
+-> [OhMyZSH Theme](https://github.com/romkatv/powerlevel10k)
+
+-> [OhMyZSH Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
 
 [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)
 
