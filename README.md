@@ -14,7 +14,7 @@
 
 [Homebrew](https://brew.sh/)
 
-- [Brewfile](https://github.com/lyr1cx/MacOS-Setup/blob/main/Brewfile)
+- [Brewfile](https://github.com/lyr1cx/BrewUp/blob/master/Brewfile.tcx.local)
 
 [Alfred Workflows](https://drive.proton.me/urls/F3N3MYCZHR#fcJghlzjEbYm):
 -----------------
