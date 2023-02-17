@@ -14,7 +14,7 @@
 
 [Homebrew](https://brew.sh/)
 
-- [Brewfile](https://github.com/lyr1cx/BrewUp/blob/master/Brewfile.tcx.local)
+- [BrewUp](https://github.com/lyr1cx/BrewUp/blob/master/Brewfile.tcx.local)
 
 [Alfred Workflows](https://drive.proton.me/urls/F3N3MYCZHR#fcJghlzjEbYm):
 -----------------
@@ -37,5 +37,3 @@
 [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe/related)     
 [YouTube Playback Speed Control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)  
 [YouTube - SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)   
-
-**Setup:** [BrewUp](https://github.com/lyr1cx/BrewUp/) for updates.
